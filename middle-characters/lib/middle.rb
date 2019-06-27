@@ -1,0 +1,3 @@
+class Middle
+
+end
